@@ -10,6 +10,7 @@ prerequisite: you have access to a drive with the dataset pkl.
 [Train the Network](#train)<br/>
 [Analyze the Network](#analyze_train)  <br/>
 [Show Results](#results)<br/>
+[Appendix A - dataset](#dataset)<br/>
 [Authors](#authors)<br/>
 
 
@@ -82,6 +83,11 @@ After that run:
 1. Hyperparams -> Imports and mount google drive -> Dataset setup and FFT preprocess -> Setting up the network
 This will result in having a a configurable environment, so you can run:
 Analyze all models' history, and compare models + data -> will show a summary of our results.
+
+## <a name="dataset"/> Obtaining the dataset
+the datasets can be downloaded from: https://www.deepsig.ai/datasets <br/>
+our simulation is suitable to: 2016.04C, 2016.10A datasets.
+you should put the "pkl" files in your drive and update rootDir variable in hyper parameters.
 
 ## <a name="authors"/> Authors
 Noam Miron & David Uzan
