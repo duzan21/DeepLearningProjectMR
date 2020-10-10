@@ -86,7 +86,7 @@ Analyze all models' history, and compare models + data -> will show a summary of
 
 ## <a name="dataset"/> Obtaining the dataset
 the datasets can be downloaded from: https://www.deepsig.ai/datasets <br/>
-our simulation is suitable to: 2016.04C, 2016.10A datasets.
+our simulation is suitable to: 2016.04C, 2016.10A datasets. <br/>
 you should put the "pkl" files in your drive and update rootDir variable in hyper parameters.
 
 ## <a name="authors"/> Authors
