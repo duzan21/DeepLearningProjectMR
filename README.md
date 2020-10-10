@@ -8,8 +8,8 @@ In this document we will describe how to run the code, train the different model
 [Analyze the Network](#analyze_train)  <br/>
 [Show Results](#results)<br/>
 
-<a name="desc"/>
-## Notebook Description
+
+## <a name="desc"/> Notebook Description
 We have one notebook called "Training and Analysis.ipynb" for easy use.
 
 The notebook is divided into parts:
@@ -33,11 +33,9 @@ The notebook is divided into parts:
           * plot accuracy graph of all the network type for each dataset
       3. Plot data time + frequency samples, and modulations probabilities - plot the dataset time and frequency samples in high snr, and show the modulation probabilities for             each data set 
 
-<a name="train"/>
-## Train The Network
 
-<a name="analyze_train"/>
-## Analyze Trained Network
+## <a name="train"/> Train The Network
 
-<a name="results"/>
-## Show Summary of The Results
+## <a name="analyze_train"/> Analyze Trained Network
+
+## <a name="results"/> Show Summary of The Results
