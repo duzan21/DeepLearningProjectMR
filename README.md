@@ -4,7 +4,14 @@ In this document we will describe how to run the code, train the different model
 
 Have Fun!
 
-prerequisite: you have access to a drive with the dataset pkl.
+prerequisite: 
+1. you have access to a drive with the dataset pkl.
+2. the folder project_203142260_305773673 is in your drive. <br/>
+   if not: <br/>
+   1. Right click on project_203142260_305773673 shared folder in your drive.  <br/>
+   2. press Add shortcut to drive, choose “My Drive” than press ADD SHORTCUT.  <br/>
+   3. This will enable google Colab to access the shared folder and the rootDir variable to be valid. <br/>
+
 ## Table of Contents  
 [Notebook Description](#desc)  <br/>
 [Train the Network](#train)<br/>
